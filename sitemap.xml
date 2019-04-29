@@ -3,21 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bogdanp05.github.io/author/admin/</loc>
-  </url>
-  
-  <url>
     <loc>https://bogdanp05.github.io/authors/</loc>
+    <lastmod>2019-05-10T10:15:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bogdanp05.github.io/author/</loc>
+    <loc>https://bogdanp05.github.io/talk/pygrunn/</loc>
+    <lastmod>2019-05-10T10:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bogdanp05.github.io/authors/bogdan-petre/</loc>
+    <lastmod>2019-05-10T10:15:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bogdanp05.github.io/</loc>
+    <lastmod>2019-05-10T10:15:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bogdanp05.github.io/authors/patrick-vogel/</loc>
+    <lastmod>2019-05-10T10:15:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bogdanp05.github.io/talk/</loc>
+    <lastmod>2019-05-10T10:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bogdanp05.github.io/author/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bogdanp05.github.io/author/</loc>
     <priority>0</priority>
   </url>
   
@@ -37,10 +61,6 @@
   
   <url>
     <loc>https://bogdanp05.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bogdanp05.github.io/talk/</loc>
   </url>
   
   <url>

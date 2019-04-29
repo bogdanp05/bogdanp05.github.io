@@ -6,9 +6,33 @@
     <description>Recent content on Bogdan Petre</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2019 10:15:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://bogdanp05.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automatic monitoring &amp; profiling of Flask application</title>
+      <link>https://bogdanp05.github.io/talk/pygrunn/</link>
+      <pubDate>Fri, 10 May 2019 10:15:00 +0200</pubDate>
+      
+      <guid>https://bogdanp05.github.io/talk/pygrunn/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;!-- Slides can be added in a few ways: --&gt;
+
+&lt;!-- - **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
